@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vijay</h1>
+<h1 align="center">Hi 👋, Iam Vijay</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay2181&label=Profile%20views&color=0e75b6&style=flat" alt="vijay2181" /> </p>
 
-- 🔭 I’m currently working on **Devops**
+- 🔭 I’m currently working on **DevopsSecOps**
 
-- 📝 I regularly write articles on [Python for Devops](Python for Devops)
+- 📝 I regularly write articles on Python for Devops,DevOps Tools
 
 - 💬 Ask me about **Python, Devops**
 
 - 📫 How to reach me **anugantivijay6@gmail.com**
 
-- ⚡ Fun fact **I'm where, i belong !!**
+- ⚡ Fun fact **Jack of All**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
