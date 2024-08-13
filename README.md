@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DevopsSecOps**
 
-- Everything as a Code Oriented
+- 🤖 Everything as a Code Oriented
 
 - 📝 I regularly write articles on Python for Devops,DevOps Tools
 
