@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **DevopsSecOps**
 
+- Everything as a Code Oriented
+
 - 📝 I regularly write articles on Python for Devops,DevOps Tools
 
 - 💬 Ask me about **Python, Devops**
