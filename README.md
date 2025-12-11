@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Devops**
 
-- 📫 How to reach me **anugantivijay6@gmail.com**
+- 📫 How to reach me **anugantivijay9@gmail.com**
 
 - ⚡ Fun fact **Jack of All**
 
